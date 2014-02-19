@@ -4,7 +4,7 @@ OpenGL Engine for Procedurally Generated City with Simple Car AI
 
 Demonstration video:
 
-[![Link to YouTube video](http://img.youtube.com/vi/sGToRm5Mvao/0.jpg)](http://www.youtube.com/watch?v=sGToRm5Mvao)
+[![Link to YouTube video]http://i.imgur.com/FwiGHJa.png)](http://www.youtube.com/watch?v=sGToRm5Mvao)
 
 Brief
 -----
