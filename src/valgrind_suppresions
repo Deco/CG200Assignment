@@ -1,0 +1,45 @@
+{
+   vbox_Cond
+   Memcheck:Cond
+   fun:crGetProcName
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+}
+{
+   vbox_Param
+   Memcheck:Param
+   ioctl(generic)
+   fun:ioctl
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGLcrutil.so
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGLcrutil.so
+   fun:crNetConnectToServer
+   fun:crNetServerConnect
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+}
+{
+   vbox_Paramwtf
+   Memcheck:Param
+   ioctl(generic)
+   fun:ioctl
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGLcrutil.so
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGLcrutil.so
+   fun:crNetConnectToServer
+   fun:crNetServerConnect
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+   obj:/opt/VBoxGuestAdditions-4.2.12/lib/VBoxOGL.so
+}
+{
+   glut_Addr8
+   Memcheck:Addr8
+   fun:fgOpenWindow
+   fun:fgCreateWindow
+   fun:glutCreateWindow
+   fun:main
+}

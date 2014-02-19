@@ -1,0 +1,23 @@
+# 
+# 
+newmtl copcar_body.bmp
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.558431 0.558431 0.558431
+Ks 0.420125 0.420125 0.420125
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd copcar_body.bmp
+
+newmtl copcar_wheels.bmp
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.558431 0.558431 0.558431
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd copcar_wheels.bmp
+
+
